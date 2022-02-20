@@ -1,7 +1,7 @@
 # Welcome to CS 1420: Accelerated Object Oriented Programming
 
 ## This course provides the basics of computer programming using C++. 
-   + Computation problem solving techniques
+   + Computational problem solving techniques
    + How to write powerful and elegant C++ code
 
 
