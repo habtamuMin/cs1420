@@ -10,4 +10,4 @@
 # Lecture Slides
 +  [Syllabus](Slides/0.CourseSyllabus.pdf)
 +  [Introducton](Slides/1.Introduction.pdf)
-+  [Introducton](Slides/1-0ProgrammingEnvironment.pdf)
++  [Programminng Environment setup](Slides/1-0ProgrammingEnvironment.pdf)
