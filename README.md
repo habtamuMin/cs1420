@@ -1,4 +1,4 @@
-# Welcome to COMPO 1010: Programming for All 1
+# Welcome to CS 1420: Accelerated Object Oriented Programming
 
 ## This course provides the basics of computer programming using C++. 
    + Computation problem solving techniques
