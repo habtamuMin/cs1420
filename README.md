@@ -11,3 +11,4 @@
 +  [Syllabus](Slides/0.CourseSyllabus.pdf)
 +  [Introducton](Slides/1.Introduction.pdf)
 +  [Programminng Environment setup](Slides/1-0ProgrammingEnvironment.pdf)
++  [C++Basics](Slides/2.C++Basics.pdf)
